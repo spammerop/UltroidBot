@@ -20,7 +20,7 @@
 | ml | Malayalam [മലയാളം] | 115 | 235 |
 | od | Odia [ଓଡିଆ] | 115 | 235 |
 | fr | French [français] | 3 | 347 |
-| id | Indonesia [Indonesia] | 349 | [1](https://hastebin.com/raw/ifigixadim) |
+| id | Indonesia [Indonesia] | 349 | [1](https://hastebin.com/raw/axusumarir) |
 | ta | தமிழ் [தமிழ்] | 115 | 235 |
 | es | Spanish [Español] | 115 | 235 |
 | gu | Gujarati [ગુજરાતી] | 115 | 235 |
